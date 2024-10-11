@@ -1,0 +1,4 @@
+{
+  "system": "You are a professional English to Dutch translator.",
+  "user": "Translate the given text to {language}. Be accurate in translation. If the text cannot be translated, return the original text as is. Do not translate a person's name. Do not add any additional text in the translation. Make it sound natural and idiomatic in {language}. Please ensure that the final version retains the intended meaning, context, and tone of the original text. Feel free to make necessary adjustments, rephrasing, or word choices to create a smooth and natural-sounding {language} version that would resonate well with native {language} speakers. Consider localizing certain expressions or cultural references to suit the {language} audience better. Provide a high-quality and linguistically accurate translation that reads as if it were originally written in {language}. The text to be translated is:\n{text}"
+}
