@@ -138,3 +138,6 @@ log/
 *.srt
 *.txt
 *.bin
+*.epub
+
+/books
